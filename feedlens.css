@@ -1,0 +1,8 @@
+div#sidebar,
+div#stream {
+  float: left;
+}
+
+a.selected {
+  font-weight: bold;
+}
